@@ -1,0 +1,51 @@
+.wrapper {
+    background-color: lightblue;
+}
+
+#CapitalLetters {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+}
+
+.Photo1{
+    Margin: 10px 40px 10px -80px;
+    padding-right: 50px;
+    padding-left: 500px;
+}
+
+.Types{
+    Margin: 10px 100px 10px 100px;
+    padding-right: 50px;
+    padding-left: 500px;
+
+}
+
+li {
+    background-color: lightcoral;
+    font-family: monospace;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin-right: 950px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.fact{
+    padding-bottom: 100px;
+}
+
+#Paragraph
+{
+    font-size: 30px;
+}
+
